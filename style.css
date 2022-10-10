@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+.jumbotron {
+    background-image: radial-gradient(skyblue,pink,white);
+}
+.display-3{
+    color: rgb(245, 49, 49);
+}
+.jumbotron .pto{
+    align-items: center;
+    margin-left: 25%;
+    outline-color:blueviolet;
+}
+.container{
+    color: seagreen;
+    font-style: oblique;
+}
